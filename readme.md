@@ -10,4 +10,4 @@ Premiers exercices de Javascript
 
 ## 🖼️ Aperçu visuel (optionnel)
 
-[Live Demo](https://ocrzia.github.io/JS1--Compteur-darkmode/)
+[Live Demo](https://ocrzia.github.io/JS2--Conditions/)
